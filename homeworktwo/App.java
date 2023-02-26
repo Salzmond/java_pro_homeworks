@@ -44,6 +44,7 @@ public class App {
             makeCall(phone, numberForMakeCall);
             receiveCalls(phone, numberForReceiveCall);
         }
+        scanner.close();
     }
 
 
