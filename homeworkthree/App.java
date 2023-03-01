@@ -1,6 +1,5 @@
 package org.telran.lessons.com.homeworkthree;
 
-import java.math.BigDecimal;
 import java.text.DecimalFormat;
 import java.util.Random;
 
